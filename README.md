@@ -78,7 +78,7 @@ MIS443_GroupXX_Healthcare
 
 ├── report/
 
-│ └── MIS443_GroupXX_Healthcare_Report.docx
+│ └── MIS 443_group assignment 2
 
 │
 
